@@ -1,0 +1,14 @@
+volumes - shared storage for containers
+docker network - communication between containers
+Docker
+   images - specifies the os, libs, etc. to be used - can have multiple containers
+   containers - actual running instance
+Docker
+   docker client
+   docker host (daemon)
+   docker registry
+
+docker hub - public images
+
+
+two spaces for each indentations
